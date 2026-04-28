@@ -1,0 +1,10 @@
+{
+  "original_filename": "Mz8dxrPlqj4TaGSoEqSO_Bsb9T1g5nlE_971454.mp4_",
+  "category": "others",
+  "compressed": true,
+  "archive_name": "secure_archive.7z",
+  "split_parts": 5,
+  "split_size_mb": 90,
+  "encrypted": true,
+  "reassembly_instructions": "Download all parts and the manifest. Use '7z x secure_archive.7z.001' to extract."
+}
