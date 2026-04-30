@@ -1,0 +1,10 @@
+{
+  "original_filename": "HJi3AauyydirSY3qID0l_58_4wtvv6qw_1016222.mp4_",
+  "category": "others",
+  "compressed": true,
+  "archive_name": "archive.7z",
+  "split_parts": 5,
+  "split_size_mb": 90,
+  "encrypted": false,
+  "reassembly_instructions": "Download all parts and the manifest. Use '7z x archive.7z.001' to extract."
+}
