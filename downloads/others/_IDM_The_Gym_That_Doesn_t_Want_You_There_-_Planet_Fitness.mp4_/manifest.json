@@ -1,0 +1,10 @@
+{
+  "original_filename": "_IDM_The_Gym_That_Doesn_t_Want_You_There_-_Planet_Fitness.mp4_",
+  "category": "others",
+  "compressed": true,
+  "archive_name": "archive.7z",
+  "split_parts": 3,
+  "split_size_mb": 90,
+  "encrypted": false,
+  "reassembly_instructions": "Download all parts and the manifest. Use '7z x archive.7z.001' to extract."
+}
