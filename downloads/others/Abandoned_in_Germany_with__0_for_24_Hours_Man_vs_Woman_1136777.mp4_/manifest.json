@@ -1,0 +1,10 @@
+{
+  "original_filename": "Abandoned_in_Germany_with__0_for_24_Hours_Man_vs_Woman_1136777.mp4_",
+  "category": "others",
+  "compressed": true,
+  "archive_name": "archive.7z",
+  "split_parts": 5,
+  "split_size_mb": 90,
+  "encrypted": false,
+  "reassembly_instructions": "Download all parts and the manifest. Use '7z x archive.7z.001' to extract."
+}
