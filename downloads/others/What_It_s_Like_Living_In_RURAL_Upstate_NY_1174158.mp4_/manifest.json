@@ -1,0 +1,10 @@
+{
+  "original_filename": "What_It_s_Like_Living_In_RURAL_Upstate_NY_1174158.mp4_",
+  "category": "others",
+  "compressed": true,
+  "archive_name": "archive.7z",
+  "split_parts": 4,
+  "split_size_mb": 90,
+  "encrypted": false,
+  "reassembly_instructions": "Download all parts and the manifest. Use '7z x archive.7z.001' to extract."
+}
