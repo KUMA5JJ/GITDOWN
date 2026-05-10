@@ -1,0 +1,10 @@
+{
+  "original_filename": "_IDM_A_Day_in_the_Life_of_Modern_COWBOYS_in_MONTANA_What_it_s_Like_.mkv_",
+  "category": "others",
+  "compressed": true,
+  "archive_name": "archive.7z",
+  "split_parts": 5,
+  "split_size_mb": 90,
+  "encrypted": false,
+  "reassembly_instructions": "Download all parts and the manifest. Use '7z x archive.7z.001' to extract."
+}
