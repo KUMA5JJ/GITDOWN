@@ -1,0 +1,10 @@
+{
+  "original_filename": "Dropped_with__0_in_China_s_Richest_City_1298569_",
+  "category": "others",
+  "compressed": true,
+  "archive_name": "archive.7z",
+  "split_parts": 3,
+  "split_size_mb": 90,
+  "encrypted": false,
+  "reassembly_instructions": "Download all parts and the manifest. Use '7z x archive.7z.001' to extract."
+}
